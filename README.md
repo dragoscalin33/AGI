@@ -1,5 +1,7 @@
 AGI and Superintelligence: Forecasts and Implications for Humanity
-An Interdisciplinary Study for a Data Scientist Portfolio (PhD Level)
+
+An Interdisciplinary Study for a Data Scientist Portfolio
+
 This repository contains a Google Colab notebook that presents a data analysis on expert forecasts regarding Artificial General Intelligence (AGI) and Superintelligence (ASI). It also explores their profound philosophical and societal implications. Data is synthesized from established forecasting platforms like Metaculus and expert surveys such as the AI Impacts Survey, providing both quantitative and qualitative perspectives.
 
 1. Introduction and Research Questions
